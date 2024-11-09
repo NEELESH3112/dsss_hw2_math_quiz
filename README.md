@@ -9,7 +9,7 @@ Generate random math questions for addition, subtraction, division, modulus and 
 Easy-to-use interface to play the quiz.
 
 
-How to Install
+#How to Install
 
 Clone the repository
 To get started, first clone this project to your local machine using:
@@ -27,14 +27,14 @@ bash
 Copy code
 pip install -r requirements.txt
 
-How to Use
+#How to Use
 Once the dependencies are installed, you can start the quiz by running the Python script:
 
 bash
 Copy code
 python math_quiz.py
 
-Enjoy the quiz and challenge yourself with different math problems!
+#Enjoy the quiz and challenge yourself with different math problems!
 
 License
 This project is licensed under the MIT License. Feel free to use, modify, and share the code as you like.
