@@ -16,7 +16,7 @@ To get started, first clone this project to your local machine using:
 
 bash
 
-Copy code
+Copy code - 
 git clone https://github.com/NEELESH3112/dsss_hw2_math_quiz.git
 
 Install the dependencies
@@ -24,14 +24,14 @@ You’ll need Python and some libraries for this project. Install them using:
 
 bash
 
-Copy code
+Copy code - 
 pip install -r requirements.txt
 
 #How to Use
 Once the dependencies are installed, you can start the quiz by running the Python script:
 
 bash
-Copy code
+Copy code - 
 python math_quiz.py
 
 #Enjoy the quiz and challenge yourself with different math problems!
