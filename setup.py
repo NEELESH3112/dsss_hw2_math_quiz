@@ -4,8 +4,7 @@ setup(
     name="math_quiz",  
     version="0.1",  
     packages=find_packages(),  
-    install_requires=[  
-        'unittest',  
+    install_requires=[   
     ],
     entry_points={  # Optional, if you want to make command-line tools
         'console_scripts': [
